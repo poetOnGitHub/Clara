@@ -1,0 +1,5 @@
+discord.py
+asyncio
+fivem
+youtube-dl
+pysqlite3
