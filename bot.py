@@ -38,7 +38,7 @@ class Bot(discord.Client):
 
     async def on_ready(self):
         await bot.wait_until_ready()
-        await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="NADOJ | !help"))
+        await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Clara | !help"))
         print (bot.user.name + " is ready")
         print ("ID: " + str(bot.user.id))
         guild = bot.get_guild(cfg.SERVER_ID)
