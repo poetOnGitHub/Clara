@@ -1,0 +1,2 @@
+# Clara
+Multipurpose Discord Bot
