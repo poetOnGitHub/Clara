@@ -3,3 +3,5 @@ asyncio
 fivem
 youtube-dl
 pysqlite3
+requests
+ PyNaCl
