@@ -1,2 +1,2 @@
 # Clara
-Multipurpose Discord Bot
+Multipurpose FiveM Discord Bot
